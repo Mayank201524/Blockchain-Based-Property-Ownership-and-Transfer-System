@@ -57,16 +57,16 @@ This project is a blockchain-based application designed to manage property owner
 # Usage
 ## Create and Verify Transaction:
 
-- **Enter a username and a private key value to create a transaction.
-- **The system verifies the transaction and mines a block if valid.
+- ** Enter a username and a private key value to create a transaction.
+- ** The system verifies the transaction and mines a block if valid.
 
 ## View Transactions:
-- **Input a username to view all transactions associated with that user.
+- ** Input a username to view all transactions associated with that user.
 
 ## Exit:
-- **Exit the application.
+- ** Exit the application.
 
 # Future Improvements
-- **Integration with a web-based front-end for enhanced accessibility.
-- **Support for more complex property-related transactions.
-- **Improved performance for large-scale property registries.
+- ** Integration with a web-based front-end for enhanced accessibility.
+- ** Support for more complex property-related transactions.
+- ** Improved performance for large-scale property registries.
