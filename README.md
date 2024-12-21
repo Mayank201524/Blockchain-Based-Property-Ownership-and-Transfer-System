@@ -60,10 +60,10 @@ This project is a blockchain-based application designed to manage property owner
 Enter a username and a private key value to create a transaction.
 The system verifies the transaction and mines a block if valid.
 
-# View Transactions:
+## View Transactions:
 Input a username to view all transactions associated with that user.
 
-# Exit:
+## Exit:
 Exit the application.
 
 # Future Improvements
